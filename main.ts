@@ -29,7 +29,7 @@ if(domain_choice.domain === "Chemistry"){
             ]
             )
             if(q1.question==="H2O"){
-                score+=1
+                score += 1
                 console.log(right_choice)
             }
             else{
